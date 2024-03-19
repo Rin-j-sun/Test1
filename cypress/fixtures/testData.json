@@ -1,0 +1,13 @@
+{
+  "main_url": "https://dev.profteam.su/",
+  "existent_login": "testSabr",
+  "none_existent_login": "sabr85748378sabr43243",
+  "existent_email": "testSabr@mail.com",
+  "none_existent_email": "testSabrsotnHello.com",
+  "existent_password" : "Testpass1",
+  "none_existent_password": "Test",
+  "existent_surname": "Сотникова",
+  "existent_name":"Сабрина",
+  "existent_patronymic": "Дмитриевна"
+
+}
